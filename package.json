@@ -1,0 +1,46 @@
+{
+  "name": "automated-dependency-updater",
+  "version": "1.0.0",
+  "description": "A CLI tool that automatically checks for outdated dependencies in Node.js projects and creates pull requests with updated versions, including changelog summaries.",
+  "main": "index.js",
+  "bin": {
+    "dep-updater": "./index.js"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/your-repo-name.git"
+  },
+  "keywords": [
+    "dependency",
+    "updater",
+    "cli",
+    "automation",
+    "github",
+    "gitlab",
+    "bitbucket"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@gitbeaker/node": "^31.0.0",
+    "@octokit/rest": "^18.0.0",
+    "bitbucket": "^4.0.0",
+    "commander": "^9.4.1",
+    "dotenv": "^16.0.3",
+    "execa": "^5.1.1",
+    "fs": "0.0.1-security",
+    "jest": "^29.0.0",
+    "node-cron": "^3.0.0",
+    "nodemailer": "^6.9.1",
+    "semver": "^7.3.8",
+    "simple-git": "^3.19.1"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "nock": "^13.2.9"
+  }
+}

@@ -215,8 +215,8 @@ Contributions are welcome! Follow these steps to contribute to the project:
 2. **Clone Your Fork**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/AAGAM17/automated-dependency-updater.git
+   cd automated-dependency-updater
    ```
 
 3. **Install Dependencies**

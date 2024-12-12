@@ -1,6 +1,6 @@
 {
   "name": "automated-dependency-updater",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A CLI tool that automatically checks for outdated dependencies in Node.js projects and creates pull requests with updated versions, including changelog summaries.",
   "main": "index.js",
   "bin": {

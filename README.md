@@ -5,6 +5,7 @@
 
 A CLI tool that automatically checks for outdated dependencies in Node.js projects and creates pull requests with updated versions, including changelog summaries.
 
+[visit npmjs](https://www.npmjs.com/package/automated-dependency-updater)
 ## Table of Contents
 
 - [Features](#features)

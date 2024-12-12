@@ -2,7 +2,6 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![npm](https://img.shields.io/npm/v/automated-dependency-updater)
-![Node.js CI](https://github.com/your-username/your-repo-name/actions/workflows/test.yml/badge.svg)
 
 A CLI tool that automatically checks for outdated dependencies in Node.js projects and creates pull requests with updated versions, including changelog summaries.
 

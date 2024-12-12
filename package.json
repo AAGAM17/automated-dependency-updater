@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/your-repo-name.git"
+    "url": "https://github.com/AAGAM17/automated-dependency-updater.git"
   },
   "keywords": [
     "dependency",
@@ -23,7 +23,7 @@
     "gitlab",
     "bitbucket"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "Aagam Shah",
   "license": "MIT",
   "dependencies": {
     "@gitbeaker/node": "^31.0.0",
